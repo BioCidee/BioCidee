@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding !
 - 🌱 I’m currently learning C#, Unity, and more ....
 - 💞️ I’m looking to collaborate on every project i can
-- 📫 How to reach me ? Directly on my discord https://discord.gg/WKPdFM59DX
+- 📫 How to reach me ? Directly on my discord https://discord.gg/WKPdFM59DX or directly on my website : https://biocidee.github.io/MyPortfolioWebSite/
